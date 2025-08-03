@@ -7,7 +7,6 @@
 
 ## 🏷️ Hero
 **Scan the QR on your certificate to explore student brilliance!**  
-![QR Badge](media/qr-badge.png "Scan to view this repo")
 
 **Why this repo exists**
 - ✅ Public **Proof of Work** for students  
